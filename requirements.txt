@@ -1,0 +1,5 @@
+langchain
+sentence-transformers
+transformers
+faiss-cpu
+streamlit
