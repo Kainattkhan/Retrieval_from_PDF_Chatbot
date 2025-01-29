@@ -5,7 +5,7 @@ from backend import load_and_process_documents, initialize_faiss, initialize_mod
 st.title("Chatbot for Attention is all you need - Paper ")
 st.sidebar.header("Configuration will be added later!")
 
-folder_path = "./data/attention.pdf"
+folder_path = "./attention.pdf"
 
 # Load and process documents
 documents = load_and_process_documents(folder_path)
