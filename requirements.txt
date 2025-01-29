@@ -1,5 +1,10 @@
 langchain
+langchain_community
 sentence-transformers
+langchain_core
+pypdf
+arxiv
+langchainhub
 transformers
 faiss-cpu
 streamlit
